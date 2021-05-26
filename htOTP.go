@@ -3,7 +3,6 @@ package htOTP
 import (
 	"crypto/hmac"
 	"encoding/binary"
-	"fmt"
 	"hash"
 	"math"
 	"strconv"
