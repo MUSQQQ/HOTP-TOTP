@@ -1,5 +1,5 @@
 # HOTP-TOTP
-Go implementation of one time password generators
+Go implementation of one time password (OTP) generators
 # License
 This project is licensed under the terms of the simplified BSD license.
 # How to use
